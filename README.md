@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [github-readme-stats-master.zip](https://github.com/MuizzuddinRifqi/MuizzuddinRifqi/files/7797240/github-readme-stats-master.zip)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuizzuddinRifqi)](https://github.com/anuraghazra/github-readme-stats)
