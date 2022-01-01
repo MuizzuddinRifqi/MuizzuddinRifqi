@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github.com/anuraghazra/github-readme-stats.git
+
+[github-readme-stats-master.zip](https://github.com/MuizzuddinRifqi/MuizzuddinRifqi/files/7797240/github-readme-stats-master.zip)
