@@ -1,3 +1,4 @@
+[![An image of @muizzuddinrifqi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muizzuddinrifqi)](https://holopin.io/@muizzuddinrifqi)
 ### Hi there 👋
 
 <!--
