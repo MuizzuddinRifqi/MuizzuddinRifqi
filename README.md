@@ -16,9 +16,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2> Connect With Me <img src='https://cdn-icons-png.flaticon.com/512/7933/7933271.png' height="30px"> </h2>
+
+<a href="mailto:muizzuddinrifqi@gmail.com">
+  <img src="https://img.shields.io/badge/-muizzuddinrifqi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
+<a href="https://github.com/MuizzuddinRifqi">
+  <img src="https://img.shields.io/badge/-MuizzuddinRifqi-2B3467?style=flat&logo=github&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/muizzuddinrifqi/" target="_blank">
+  <img src="https://img.shields.io/badge/-Muizzuddin Rifqi-0077b5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/MuizzuddinRifqi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuizzuddinRifqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuizzuddinRifqi&layout=compact&layout=compact&theme=algolia"/>
 </a>
