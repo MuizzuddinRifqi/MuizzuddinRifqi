@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h2> Connect With Me <img src='https://cdn-icons-png.flaticon.com/512/7933/7933271.png' height="30px"> </h2>
 
-<a href="mailto:muizzuddinrifqi@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=muizzuddinrifqi@gmail.com">
   <img src="https://img.shields.io/badge/-muizzuddinrifqi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> 
 <a href="https://github.com/MuizzuddinRifqi">
   <img src="https://img.shields.io/badge/-MuizzuddinRifqi-2B3467?style=flat&logo=github&logoColor=white"/></a> 
