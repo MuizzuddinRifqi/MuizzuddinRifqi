@@ -1,6 +1,10 @@
 [![An image of @muizzuddinrifqi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muizzuddinrifqi)](https://holopin.io/@muizzuddinrifqi)
 ### Hi there 👋
 
+<h1 align="center">Hi Everyone, Welcome to my GitHub Profile ! 👋</h1>
+<h3 align="center">Hello My Name is M. Muizzuddin Rifqi</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuizzuddinRifqi&label=Profile%20views&color=0e75b6&style=flat" alt="MuizzuddinRifqi" /> </p>
 <!--
 **MuizzuddinRifqi/MuizzuddinRifqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
